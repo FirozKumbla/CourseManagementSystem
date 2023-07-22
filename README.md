@@ -1,3 +1,2 @@
-# javaspringboot
-Springboot project repository
+Course Management System - Java Springboot project
 
