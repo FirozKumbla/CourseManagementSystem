@@ -1,2 +1,2 @@
-Course Management System - Java Springboot project
+Course Management System - Java Springboot project, DB-MySQL
 
